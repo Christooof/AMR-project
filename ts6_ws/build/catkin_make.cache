@@ -1,0 +1,2 @@
+ts6_bluerov2_perception
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/34763-autonomous-marine-robotics/Training_Sessions/TS6_Perception/ts6_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/34763-autonomous-marine-robotics/Training_Sessions/TS6_Perception/ts6_ws/install -G Unix Makefiles

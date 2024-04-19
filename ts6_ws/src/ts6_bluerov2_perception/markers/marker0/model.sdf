@@ -1,0 +1,17 @@
+<?xml version="1.0" ?><sdf version="1.6">
+  <model name="Marker0">
+    <!--static>true</static-->
+    <static>false</static>
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <mesh>
+            <uri>model://marker0/meshes/Marker0.dae</uri>
+          <scale>6.0 6.0 6.0</scale></mesh>
+        </geometry>
+      </visual>
+    </link>
+    <plugin name="model_push" filename="/home/ubuntu/34763-autonomous-marine-robotics/Training_Sessions/TS6_Perception/ts6_ws/devel/lib/libmodel_push.so"/>
+    
+  </model>
+</sdf>
